@@ -25,7 +25,7 @@
 
 二、在文档存储的目录下，点击右键，选择Git Bash Here
 
-三、输入命令：git clone 
+三、输入命令：git clone https://github.com/huhailang9012/Graph-Representation-Learning.git
 
 四、在电脑本地修改文档
 
