@@ -1,4 +1,4 @@
-# Graph-Representation-Learning
+# Graph Representation Learning
 图表示学习
 
 # 写在前面的话
